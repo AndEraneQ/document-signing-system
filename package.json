@@ -1,5 +1,8 @@
 {
-  "scripts": {
+    "name": "document-signing-system",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
     "prepare": "husky install"
   },
   "devDependencies": {
