@@ -1,10 +1,10 @@
-package com.trojan.document_signing_system;
+package com.trojan.authorization;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DocumentSigningSystemApplicationTests {
+class AuthorizationApplicationTests {
 
 	@Test
 	void contextLoads() {
