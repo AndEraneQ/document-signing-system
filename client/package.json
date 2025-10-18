@@ -12,6 +12,7 @@
     "prepare": "cd .. && husky client/.husky"
   },
   "dependencies": {
+    "@tanstack/react-router": "^1.132.37",
     "bootstrap": "^5.3.8",
     "react": "^19.1.1",
     "react-bootstrap": "^2.10.10",
@@ -19,6 +20,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.35.0",
+    "@tanstack/react-query": "^5.90.2",
     "@types/react": "^19.1.13",
     "@types/react-dom": "^19.1.9",
     "@vitejs/plugin-react": "^5.0.2",
