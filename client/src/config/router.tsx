@@ -1,4 +1,4 @@
-import { createRootRouteWithContext, createRoute, createRouter, Outlet, Route } from '@tanstack/react-router';
+import { createRootRouteWithContext, createRoute, createRouter, Outlet } from '@tanstack/react-router';
 import { QueryClient } from '@tanstack/react-query'
 import Preview from '../pages/Preview';
 import Login from '../pages/Login';
