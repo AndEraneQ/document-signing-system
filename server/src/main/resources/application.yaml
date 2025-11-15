@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: MySpringApp
+  datasource:
+    url: jdbc:postgresql://localhost:5432/documents
+    username: postgres
+    password: yourpassword
+    driver-class-name: org.postgresql.Driver
+    jpa:
+      hibernate:
+        ddl-auto: update
+      show-sql: true
